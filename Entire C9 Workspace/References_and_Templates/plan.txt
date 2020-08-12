@@ -1,0 +1,14 @@
+PLANNING
+
+
+
+ALMOST FINISHED --- flesh out item menu option & items in general
+FINISHED(?) --- implement fighting
+NOT EVEN STARTED --- implement random events
+NOT EVEN STARTED --- make leader board or save file option
+
+
+if i have enough time, make a string that takes in each turn and puts dashes between each turn so that the user can have a map/timeline of what happened after they are done. not necessary but kinda cool.
+sample of what it would look like: "W(fight)-N(item)-S(fight)-Rest-Item-W(fight)-S(item)-N(fight)-N(chest)"
+
+if enough time, make turn limit for strength & intel pots, so players cant scale strength ridiculously

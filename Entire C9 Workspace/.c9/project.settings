@@ -1,0 +1,38 @@
+{
+    "build": {
+        "@builder": "auto",
+        "@saveall": true
+    },
+    "language": {
+        "@warnLevel": "info",
+        "tern_defs": {
+            "json()": {
+                "browser": {
+                    "enabled": true
+                },
+                "ecma5": {
+                    "enabled": true
+                },
+                "jQuery": {
+                    "enabled": true
+                }
+            }
+        }
+    },
+    "run": {
+        "configs": {
+            "@inited": "true",
+            "json()": {
+                "h7": {
+                    "command": "g++ -std=c++11 User.cpp User.h -o plswork -g",
+                    "cwd": "/Hmwk7",
+                    "debug": false,
+                    "env": {},
+                    "name": "h7",
+                    "runner": "C++ (simple)",
+                    "toolbar": true
+                }
+            }
+        }
+    }
+}

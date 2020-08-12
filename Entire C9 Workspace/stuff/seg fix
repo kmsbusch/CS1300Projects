@@ -1,0 +1,7 @@
+The problem would be in the split function if you are using one. The split function you will have modified to include arrays. 
+The max number of books is defined to be 50. 
+
+But when you read the line from the ratings.txt, you will have the name + 50 ratings. 
+
+This makes 51 items the split function will try to put in the array you pass to it. 
+Be sure to double check that the split function is given an array, that is 50 + 1 in length. no only 50. You must include the name also to be present in that array.
