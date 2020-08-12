@@ -1,7 +1,0 @@
-Small Health Pot,15,0,0
-Med Health Pot,40,0,0
-Large Health Pot,65,0,0
-Small Attack Pot,0,4,0
-Large Attack Pot,0,8,0
-Small Intelligence Pot,0,0,4
-Large Intelligence Pot,0,0,8

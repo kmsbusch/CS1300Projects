@@ -1,8 +1,0 @@
-Sewer Rat,6,4
-Gremlin,12,5  
-Rabid Jackal,15,6
-Gnome,10,8 
-Zombie,11,11  
-Troll,13,10 
-Mean Looking Giant,15,11 
-Really Ugly Minotaur,24,12
